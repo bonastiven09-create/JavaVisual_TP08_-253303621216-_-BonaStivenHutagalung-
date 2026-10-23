@@ -1,7 +1,7 @@
 TP8 — Character Manager Sprint #3
 Bona Stiven Hutagalung
 253303621216
-Screenshot
+Screenshot ![alt text](https://github.com/bonastiven09-create/JavaVisual_TP08_-253303621216-_-BonaStivenHutagalung-/blob/main/Screenshot%202026-10-23%20195826.png?raw=true)
 
 Alur Data (MVC)
 
